@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![codepathprework](https://user-images.githubusercontent.com/65740643/213964808-a12aff1e-ff01-4bb2-8a26-5fb2e52741bd.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='(https://user-images.githubusercontent.com/65740643/213964808-a12aff1e-ff01-4bb2-8a26-5fb2e52741bd.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
