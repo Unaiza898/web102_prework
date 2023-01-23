@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough!
-[Uploading codepathprework.gif…]()
+![codepathprework](https://user-images.githubusercontent.com/65740643/213965221-f2916cd6-4bd5-416b-93b7-caee5c0f109d.gif)
 
 
 Here's a walkthrough of implemented features:
