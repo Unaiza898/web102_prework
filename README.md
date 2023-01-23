@@ -19,7 +19,9 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Walkthrough!
+[Uploading codepathprework.gif…]()
+
 
 Here's a walkthrough of implemented features:
 
