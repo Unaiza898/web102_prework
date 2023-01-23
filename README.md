@@ -20,13 +20,10 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough!
-![codepathprework](https://user-images.githubusercontent.com/65740643/213965221-f2916cd6-4bd5-416b-93b7-caee5c0f109d.gif)
-
 
 Here's a walkthrough of implemented features:
 
-<img src='ttps://user-images.githubusercontent.com/65740643/213964808-a12aff1e-ff01-4bb2-8a26-5fb2e52741bd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![codepathprework](https://user-images.githubusercontent.com/65740643/213965221-f2916cd6-4bd5-416b-93b7-caee5c0f109d.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -40,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023][Unaiza Nizami]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
